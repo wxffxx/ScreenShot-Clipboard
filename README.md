@@ -1,5 +1,9 @@
 # ScreenShot & Clipboard
 
+<p align="center">
+  <img src="demo.gif" alt="ScreenShot&Clipboard Demo" width="600"/>
+</p>
+
 A lightweight, native macOS menu bar application that supercharges your screenshot and clipboard workflow. Built entirely with Swift and AppKit, it runs silently in the background with zero Dock icon clutter.
 
 ## AI Usage Declaration
